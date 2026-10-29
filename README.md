@@ -2,7 +2,7 @@
 
 A responsive, single-page website for a fictional English-medium primary school in Dar es Salaam, Tanzania.
 
-**Live demo:** https://cassey-max.github.io/mvule-hills-school/
+**Live demo:** https://YOUR-USERNAME.github.io/mvule-hills-school/
 
 ## Features
 
@@ -26,6 +26,15 @@ A responsive, single-page website for a fictional English-medium primary school 
 ## Run locally
 
 Download the repository and open `index.html` in any browser.
+
+## Project structure
+
+```
+index.html   page content and structure
+style.css    design, layout and animations
+script.js    interactivity: menu, scroll reveals, counters, slider, countdowns, form
+README.md    this file
+```
 
 ## Notes
 
